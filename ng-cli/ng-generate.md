@@ -33,4 +33,4 @@ Má hodně možností, neuvádím všechny.
 
 Aby se vytvořila v místě kde chceš, musíš zadat relativní cesty od /src/app.
 
-`ng generate component lazy/ngxs/Action --module lazy/ngxs --style=scss`
+`ng generate component feature/ngxs/Action --module feature/ngxs --style=scss`
